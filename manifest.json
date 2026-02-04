@@ -1,0 +1,37 @@
+{
+  "manifest_version": 2,
+  "name": "Graphite",
+  "version": "1.2",
+  "description": "A clean graphite Firefox theme with crystal-grey accents.",
+
+  "icons": {
+    "48": "icons/48.png",
+    "96": "icons/96.png"
+  },
+
+  "theme": {
+    "colors": {
+      "frame": "#0f0f10",
+      "tab_background_text": "#c9c9cc",
+
+      "toolbar": "#151517",
+      "toolbar_text": "#d2d2d6",
+      "toolbar_field": "#1b1b1e",
+      "toolbar_field_text": "#e0e0e3",
+
+      "tab_line": "#2a2a2e",
+      "tab_selected": "#26262a",
+      "tab_text": "#ededf0",
+
+      "popup": "#1a1a1d",
+      "popup_text": "#d6d6da",
+
+      "icons": "#b8b8bd",
+      "icons_attention": "#d0d0d4"
+    },
+
+    "properties": {
+      "color_scheme": "dark"
+    }
+  }
+}
